@@ -1,0 +1,152 @@
+[
+    {
+        "id": "3eebfc04436b4da69228fabaf4402561",
+        "date": "2026-02-08 19:44:01.135132",
+        "annotated_image_url": "/static/results/3eebfc04436b4da69228fabaf4402561_annotated.jpg",
+        "detections": []
+    },
+    {
+        "id": "76f9262f659d43a1a7f2b16618d2f317",
+        "date": "2026-02-08 19:44:14.084763",
+        "annotated_image_url": "/static/results/76f9262f659d43a1a7f2b16618d2f317_annotated.jpg",
+        "detections": [
+            {
+                "name": "Stenosis",
+                "class": 0,
+                "confidence": 0.64532,
+                "box": {
+                    "x1": 141.73106,
+                    "y1": 24.00915,
+                    "x2": 190.37955,
+                    "y2": 48.48286
+                }
+            }
+        ]
+    },
+    {
+        "id": "64f6abf537f145598100cf21393e5c81",
+        "date": "2026-02-08 19:44:29.798778",
+        "annotated_image_url": "/static/results/64f6abf537f145598100cf21393e5c81_annotated.jpg",
+        "detections": [
+            {
+                "name": "Stenosis",
+                "class": 0,
+                "confidence": 0.51062,
+                "box": {
+                    "x1": 127.23875,
+                    "y1": 101.89256,
+                    "x2": 147.70261,
+                    "y2": 127.26729
+                }
+            }
+        ]
+    },
+    {
+        "id": "e96e6b42fe4b45a5af8e0f9bbde1f3a9",
+        "date": "2026-02-12 16:35:01.466419",
+        "annotated_image_url": "/static/results/e96e6b42fe4b45a5af8e0f9bbde1f3a9_annotated.jpg",
+        "detections": [
+            {
+                "name": "Stenosis",
+                "class": 0,
+                "confidence": 0.69392,
+                "box": {
+                    "x1": 305.72906,
+                    "y1": 133.7373,
+                    "x2": 358.36884,
+                    "y2": 161.51997
+                }
+            }
+        ]
+    },
+    {
+        "id": "8980af121d2f4dc7bfdf055a3405e2ef",
+        "date": "2026-02-12 16:37:43.164103",
+        "annotated_image_url": "/static/results/8980af121d2f4dc7bfdf055a3405e2ef_annotated.jpg",
+        "detections": [
+            {
+                "name": "Stenosis",
+                "class": 0,
+                "confidence": 0.64661,
+                "box": {
+                    "x1": 159.95174,
+                    "y1": 39.60552,
+                    "x2": 202.76445,
+                    "y2": 61.712
+                }
+            }
+        ]
+    },
+    {
+        "id": "9fd335523f6a418b854d0cc4df40b12f",
+        "date": "2026-02-12 16:39:33.041026",
+        "annotated_image_url": "/static/results/9fd335523f6a418b854d0cc4df40b12f_annotated.jpg",
+        "detections": [
+            {
+                "name": "Stenosis",
+                "class": 0,
+                "confidence": 0.66335,
+                "box": {
+                    "x1": 287.68076,
+                    "y1": 110.25918,
+                    "x2": 346.38144,
+                    "y2": 142.32581
+                }
+            }
+        ]
+    },
+    {
+        "id": "286cf94e511643b8b503efc510d278d1",
+        "date": "2026-02-12 16:40:41.621406",
+        "annotated_image_url": "/static/results/286cf94e511643b8b503efc510d278d1_annotated.jpg",
+        "detections": [
+            {
+                "name": "Stenosis",
+                "class": 0,
+                "confidence": 0.74528,
+                "box": {
+                    "x1": 293.96466,
+                    "y1": 110.96513,
+                    "x2": 344.6748,
+                    "y2": 139.46738
+                }
+            }
+        ]
+    },
+    {
+        "id": "1d030c7b55e14b1284413e9133e58a03",
+        "date": "2026-02-12 17:04:38.044690",
+        "annotated_image_url": "/static/results/1d030c7b55e14b1284413e9133e58a03_annotated.jpg",
+        "detections": [
+            {
+                "name": "Stenosis",
+                "class": 0,
+                "confidence": 0.56817,
+                "box": {
+                    "x1": 165.77058,
+                    "y1": 164.85635,
+                    "x2": 224.47351,
+                    "y2": 182.83109
+                }
+            }
+        ]
+    },
+    {
+        "id": "96e7611884114972967367359d625c3c",
+        "date": "2026-02-12 17:05:41.752036",
+        "annotated_image_url": "/static/results/96e7611884114972967367359d625c3c_annotated.jpg",
+        "detections": [
+            {
+                "name": "Stenosis",
+                "class": 0,
+                "confidence": 0.64663,
+                "box": {
+                    "x1": 168.47639,
+                    "y1": 163.79085,
+                    "x2": 229.84319,
+                    "y2": 184.3168
+                }
+            }
+        ]
+    }
+]

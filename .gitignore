@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+static/results/*
+!static/results/results.json
+!static/results/history.json
+.env
+.venv
+venv/
+.vscode/
+.idea/

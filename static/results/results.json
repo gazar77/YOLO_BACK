@@ -1,0 +1,18 @@
+{
+    "id": "96e7611884114972967367359d625c3c",
+    "date": "2026-02-12 17:05:41.752036",
+    "annotated_image_url": "/static/results/96e7611884114972967367359d625c3c_annotated.jpg",
+    "detections": [
+        {
+            "name": "Stenosis",
+            "class": 0,
+            "confidence": 0.64663,
+            "box": {
+                "x1": 168.47639,
+                "y1": 163.79085,
+                "x2": 229.84319,
+                "y2": 184.3168
+            }
+        }
+    ]
+}
